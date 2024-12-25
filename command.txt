@@ -1,0 +1,5 @@
+a attack
+v view_abilities
+e exit
+l load_game
+s save_game
